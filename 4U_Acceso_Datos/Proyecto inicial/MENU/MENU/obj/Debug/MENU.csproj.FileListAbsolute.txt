@@ -1,0 +1,15 @@
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.Menu.resources
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.TABLA_CIUDAD.resources
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\bin\Debug\MENU.exe.config
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\bin\Debug\MENU.exe
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\bin\Debug\MENU.pdb
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.exe
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.pdb
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.TABLA_FARMACIA.resources
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.TABALA_PROPIETARIOS.resources
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.TABLA_MEDICAMENTOS.resources
+C:\Users\cesar\OneDrive\Escritorio\MAKCUP\MENU\MENU\obj\Debug\MENU.TABLA_CLIENTES.resources

@@ -1,0 +1,57 @@
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe.config
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.pdb
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Form1.resources
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.exe
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.pdb
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\MaterialSkin.dll
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.FORMS.Tabla_Promocion.resources
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Tabla_Empresa.resources
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Tabla_Vivienda.resources
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe.manifest
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.application
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.exe.manifest
+C:\Users\cesar\OneDrive\Escritorio\proyecto final\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.application
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe.config
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe.manifest
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.application
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.pdb
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\MaterialSkin.dll
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Form1.resources
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Tabla_Empresa.resources
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.FORMS.Tabla_Promocion.resources
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Properties.Resources.resources
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Tabla_Vivienda.resources
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.exe.manifest
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.application
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.CopyComplete
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.exe
+C:\Users\PC\Desktop\Tareas\Topicos\Unidad2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.pdb
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe.config
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe.manifest
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.application
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.exe
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\PROYECTO_EQUIPO.pdb
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\bin\Debug\MaterialSkin.dll
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Form1.resources
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Tabla_Empresa.resources
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.FORMS.Tabla_Promocion.resources
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.Tabla_Vivienda.resources
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.exe.manifest
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.application
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.csproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.exe
+C:\Users\cesar\OneDrive\Escritorio\PROJECT FINAL\PROYECTOFINALUNIDAD2\PROYECTO_EQUIPO\PROYECTO_EQUIPO\obj\Debug\PROYECTO_EQUIPO.pdb

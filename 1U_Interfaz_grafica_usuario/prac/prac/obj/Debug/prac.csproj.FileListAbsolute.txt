@@ -1,0 +1,10 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\bin\Debug\prac.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\bin\Debug\prac.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\bin\Debug\prac.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.Form1.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\prac\prac\obj\Debug\prac.pdb

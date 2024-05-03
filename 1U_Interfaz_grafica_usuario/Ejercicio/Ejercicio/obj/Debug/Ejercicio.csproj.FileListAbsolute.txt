@@ -1,0 +1,10 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb

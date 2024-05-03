@@ -1,0 +1,14 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\bin\Debug\PRACTICA_1.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\bin\Debug\PRACTICA_1.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\bin\Debug\PRACTICA_1.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.Form1.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\bin\Debug\PRACTICA_1.exe.manifest
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\bin\Debug\PRACTICA_1.application
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.exe.manifest
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\1U_Interfaz_grafica_usuario\PRACTICA_1\PRACTICA_1\obj\Debug\PRACTICA_1.application
