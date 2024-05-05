@@ -224,7 +224,7 @@ namespace Calculadora
                     Pantalla_Principal_TxtBox.Text = Convert.ToString(Math.Pow(Double.Parse(Pantalla_Principal_TxtBox.Text), 2));
                     break;
                 case "+/-":
-                    Pantalla_Principal_TxtBox.Text = Convert.ToString(-1 * Convert.ToDouble(Pantalla_Principal_TxtBox));
+                    Pantalla_Principal_TxtBox.Text = Convert.ToString(-1 * Convert.ToDouble(Pantalla_Principal_TxtBox.Text));
                     break;
                 default:
 

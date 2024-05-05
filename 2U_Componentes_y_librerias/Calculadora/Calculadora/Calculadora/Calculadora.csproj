@@ -104,5 +104,8 @@
   <ItemGroup>
     <None Include="Resources\icons8-flecha-izquierda-larga-25.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-calculadora-32.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

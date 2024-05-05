@@ -29,20 +29,16 @@
         private void InitializeComponent()
         {
             System.Windows.Forms.Button btn_Limpieza_Historial;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.pnl_Titulo = new System.Windows.Forms.Panel();
-            this.Minimizar_Btn = new System.Windows.Forms.Button();
-            this.Ocultar_Ventana_Btn = new System.Windows.Forms.Button();
-            this.cerrar_Btn = new System.Windows.Forms.Button();
             this.pnl_Historial = new System.Windows.Forms.Panel();
             this.Pantalla_Historial_RichBox = new System.Windows.Forms.RichTextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.btn_Historial = new System.Windows.Forms.Button();
             this.Pantalla_Secundaria_TxtBox = new System.Windows.Forms.TextBox();
             this.Pantalla_Principal_TxtBox = new System.Windows.Forms.TextBox();
             this.btn_Porcent = new System.Windows.Forms.Button();
             this.btn_C = new System.Windows.Forms.Button();
             this.btn_Ce = new System.Windows.Forms.Button();
-            this.Back_btn = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
@@ -64,10 +60,17 @@
             this.button21 = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
             this.Btn_Igual = new System.Windows.Forms.Button();
+            this.Back_btn = new System.Windows.Forms.Button();
+            this.btn_Historial = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.Minimizar_Btn = new System.Windows.Forms.Button();
+            this.Ocultar_Ventana_Btn = new System.Windows.Forms.Button();
+            this.cerrar_Btn = new System.Windows.Forms.Button();
             btn_Limpieza_Historial = new System.Windows.Forms.Button();
             this.pnl_Titulo.SuspendLayout();
             this.pnl_Historial.SuspendLayout();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // btn_Limpieza_Historial
@@ -85,6 +88,7 @@
             // 
             // pnl_Titulo
             // 
+            this.pnl_Titulo.Controls.Add(this.pictureBox1);
             this.pnl_Titulo.Controls.Add(this.Minimizar_Btn);
             this.pnl_Titulo.Controls.Add(this.Ocultar_Ventana_Btn);
             this.pnl_Titulo.Controls.Add(this.cerrar_Btn);
@@ -95,54 +99,6 @@
             this.pnl_Titulo.Size = new System.Drawing.Size(354, 40);
             this.pnl_Titulo.TabIndex = 0;
             this.pnl_Titulo.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnl_Titulo_MouseDown);
-            // 
-            // Minimizar_Btn
-            // 
-            this.Minimizar_Btn.Dock = System.Windows.Forms.DockStyle.Right;
-            this.Minimizar_Btn.FlatAppearance.BorderSize = 0;
-            this.Minimizar_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Minimizar_Btn.Font = new System.Drawing.Font("Garamond", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Document, ((byte)(0)));
-            this.Minimizar_Btn.ForeColor = System.Drawing.Color.Black;
-            this.Minimizar_Btn.Image = global::Calculadora.Properties.Resources.icons8_minimizar_la_ventana_24;
-            this.Minimizar_Btn.Location = new System.Drawing.Point(204, 0);
-            this.Minimizar_Btn.Name = "Minimizar_Btn";
-            this.Minimizar_Btn.Size = new System.Drawing.Size(50, 40);
-            this.Minimizar_Btn.TabIndex = 5;
-            this.Minimizar_Btn.Text = "minimize";
-            this.Minimizar_Btn.UseVisualStyleBackColor = true;
-            this.Minimizar_Btn.Click += new System.EventHandler(this.Control_Ventana_Click);
-            // 
-            // Ocultar_Ventana_Btn
-            // 
-            this.Ocultar_Ventana_Btn.Dock = System.Windows.Forms.DockStyle.Right;
-            this.Ocultar_Ventana_Btn.FlatAppearance.BorderSize = 0;
-            this.Ocultar_Ventana_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Ocultar_Ventana_Btn.Font = new System.Drawing.Font("Gadugi", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Ocultar_Ventana_Btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
-            this.Ocultar_Ventana_Btn.Image = global::Calculadora.Properties.Resources.icons8_restaurar_abajo_25;
-            this.Ocultar_Ventana_Btn.Location = new System.Drawing.Point(254, 0);
-            this.Ocultar_Ventana_Btn.Name = "Ocultar_Ventana_Btn";
-            this.Ocultar_Ventana_Btn.Size = new System.Drawing.Size(50, 40);
-            this.Ocultar_Ventana_Btn.TabIndex = 4;
-            this.Ocultar_Ventana_Btn.Text = "Maxin";
-            this.Ocultar_Ventana_Btn.UseVisualStyleBackColor = true;
-            this.Ocultar_Ventana_Btn.Click += new System.EventHandler(this.Control_Ventana_Click);
-            // 
-            // cerrar_Btn
-            // 
-            this.cerrar_Btn.Dock = System.Windows.Forms.DockStyle.Right;
-            this.cerrar_Btn.FlatAppearance.BorderSize = 0;
-            this.cerrar_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.cerrar_Btn.Font = new System.Drawing.Font("Gadugi", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.cerrar_Btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
-            this.cerrar_Btn.Image = global::Calculadora.Properties.Resources.icons8_x_25__1_;
-            this.cerrar_Btn.Location = new System.Drawing.Point(304, 0);
-            this.cerrar_Btn.Name = "cerrar_Btn";
-            this.cerrar_Btn.Size = new System.Drawing.Size(50, 40);
-            this.cerrar_Btn.TabIndex = 2;
-            this.cerrar_Btn.Text = "Cerrar";
-            this.cerrar_Btn.UseVisualStyleBackColor = true;
-            this.cerrar_Btn.Click += new System.EventHandler(this.Control_Ventana_Click);
             // 
             // pnl_Historial
             // 
@@ -177,19 +133,6 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(354, 30);
             this.panel1.TabIndex = 2;
-            // 
-            // btn_Historial
-            // 
-            this.btn_Historial.Dock = System.Windows.Forms.DockStyle.Right;
-            this.btn_Historial.FlatAppearance.BorderSize = 0;
-            this.btn_Historial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btn_Historial.Image = global::Calculadora.Properties.Resources.icons8_pasado_24;
-            this.btn_Historial.Location = new System.Drawing.Point(304, 0);
-            this.btn_Historial.Name = "btn_Historial";
-            this.btn_Historial.Size = new System.Drawing.Size(50, 30);
-            this.btn_Historial.TabIndex = 2;
-            this.btn_Historial.UseVisualStyleBackColor = true;
-            this.btn_Historial.Click += new System.EventHandler(this.btn_Historial_Click);
             // 
             // Pantalla_Secundaria_TxtBox
             // 
@@ -264,20 +207,6 @@
             this.btn_Ce.Text = "CE";
             this.btn_Ce.UseVisualStyleBackColor = false;
             this.btn_Ce.Click += new System.EventHandler(this.btn_Ce_Click);
-            // 
-            // Back_btn
-            // 
-            this.Back_btn.BackColor = System.Drawing.Color.Silver;
-            this.Back_btn.FlatAppearance.BorderSize = 0;
-            this.Back_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Back_btn.Image = global::Calculadora.Properties.Resources.icons8_flecha_izquierda_larga_25;
-            this.Back_btn.Location = new System.Drawing.Point(262, 177);
-            this.Back_btn.Margin = new System.Windows.Forms.Padding(0);
-            this.Back_btn.Name = "Back_btn";
-            this.Back_btn.Size = new System.Drawing.Size(90, 40);
-            this.Back_btn.TabIndex = 9;
-            this.Back_btn.UseVisualStyleBackColor = false;
-            this.Back_btn.Click += new System.EventHandler(this.Back_btn_Click);
             // 
             // button2
             // 
@@ -557,6 +486,7 @@
             this.button22.TabIndex = 28;
             this.button22.Text = "+/-";
             this.button22.UseVisualStyleBackColor = false;
+            this.button22.Click += new System.EventHandler(this.Operaciones_Especiales_click);
             // 
             // Btn_Igual
             // 
@@ -571,6 +501,90 @@
             this.Btn_Igual.Text = "=";
             this.Btn_Igual.UseVisualStyleBackColor = false;
             this.Btn_Igual.Click += new System.EventHandler(this.Btn_Igual_Click);
+            // 
+            // Back_btn
+            // 
+            this.Back_btn.BackColor = System.Drawing.Color.Silver;
+            this.Back_btn.FlatAppearance.BorderSize = 0;
+            this.Back_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Back_btn.Image = global::Calculadora.Properties.Resources.icons8_flecha_izquierda_larga_25;
+            this.Back_btn.Location = new System.Drawing.Point(262, 177);
+            this.Back_btn.Margin = new System.Windows.Forms.Padding(0);
+            this.Back_btn.Name = "Back_btn";
+            this.Back_btn.Size = new System.Drawing.Size(90, 40);
+            this.Back_btn.TabIndex = 9;
+            this.Back_btn.UseVisualStyleBackColor = false;
+            this.Back_btn.Click += new System.EventHandler(this.Back_btn_Click);
+            // 
+            // btn_Historial
+            // 
+            this.btn_Historial.Dock = System.Windows.Forms.DockStyle.Right;
+            this.btn_Historial.FlatAppearance.BorderSize = 0;
+            this.btn_Historial.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btn_Historial.Image = global::Calculadora.Properties.Resources.icons8_pasado_24;
+            this.btn_Historial.Location = new System.Drawing.Point(304, 0);
+            this.btn_Historial.Name = "btn_Historial";
+            this.btn_Historial.Size = new System.Drawing.Size(50, 30);
+            this.btn_Historial.TabIndex = 2;
+            this.btn_Historial.UseVisualStyleBackColor = true;
+            this.btn_Historial.Click += new System.EventHandler(this.btn_Historial_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::Calculadora.Properties.Resources.icons8_calculadora_32;
+            this.pictureBox1.Location = new System.Drawing.Point(12, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(31, 37);
+            this.pictureBox1.TabIndex = 6;
+            this.pictureBox1.TabStop = false;
+            // 
+            // Minimizar_Btn
+            // 
+            this.Minimizar_Btn.Dock = System.Windows.Forms.DockStyle.Right;
+            this.Minimizar_Btn.FlatAppearance.BorderSize = 0;
+            this.Minimizar_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Minimizar_Btn.Font = new System.Drawing.Font("Garamond", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Document, ((byte)(0)));
+            this.Minimizar_Btn.ForeColor = System.Drawing.Color.Black;
+            this.Minimizar_Btn.Image = global::Calculadora.Properties.Resources.icons8_minimizar_la_ventana_24;
+            this.Minimizar_Btn.Location = new System.Drawing.Point(204, 0);
+            this.Minimizar_Btn.Name = "Minimizar_Btn";
+            this.Minimizar_Btn.Size = new System.Drawing.Size(50, 40);
+            this.Minimizar_Btn.TabIndex = 5;
+            this.Minimizar_Btn.Text = "minimize";
+            this.Minimizar_Btn.UseVisualStyleBackColor = true;
+            this.Minimizar_Btn.Click += new System.EventHandler(this.Control_Ventana_Click);
+            // 
+            // Ocultar_Ventana_Btn
+            // 
+            this.Ocultar_Ventana_Btn.Dock = System.Windows.Forms.DockStyle.Right;
+            this.Ocultar_Ventana_Btn.FlatAppearance.BorderSize = 0;
+            this.Ocultar_Ventana_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Ocultar_Ventana_Btn.Font = new System.Drawing.Font("Gadugi", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Ocultar_Ventana_Btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(2)))), ((int)(((byte)(32)))));
+            this.Ocultar_Ventana_Btn.Image = global::Calculadora.Properties.Resources.icons8_restaurar_abajo_25;
+            this.Ocultar_Ventana_Btn.Location = new System.Drawing.Point(254, 0);
+            this.Ocultar_Ventana_Btn.Name = "Ocultar_Ventana_Btn";
+            this.Ocultar_Ventana_Btn.Size = new System.Drawing.Size(50, 40);
+            this.Ocultar_Ventana_Btn.TabIndex = 4;
+            this.Ocultar_Ventana_Btn.Text = "Maxin";
+            this.Ocultar_Ventana_Btn.UseVisualStyleBackColor = true;
+            this.Ocultar_Ventana_Btn.Click += new System.EventHandler(this.Control_Ventana_Click);
+            // 
+            // cerrar_Btn
+            // 
+            this.cerrar_Btn.Dock = System.Windows.Forms.DockStyle.Right;
+            this.cerrar_Btn.FlatAppearance.BorderSize = 0;
+            this.cerrar_Btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.cerrar_Btn.Font = new System.Drawing.Font("Gadugi", 0.001F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cerrar_Btn.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(32)))), ((int)(((byte)(32)))));
+            this.cerrar_Btn.Image = global::Calculadora.Properties.Resources.icons8_x_25__1_;
+            this.cerrar_Btn.Location = new System.Drawing.Point(304, 0);
+            this.cerrar_Btn.Name = "cerrar_Btn";
+            this.cerrar_Btn.Size = new System.Drawing.Size(50, 40);
+            this.cerrar_Btn.TabIndex = 2;
+            this.cerrar_Btn.Text = "Cerrar";
+            this.cerrar_Btn.UseVisualStyleBackColor = true;
+            this.cerrar_Btn.Click += new System.EventHandler(this.Control_Ventana_Click);
             // 
             // Form1
             // 
@@ -611,6 +625,7 @@
             this.Font = new System.Drawing.Font("Gadugi", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -619,6 +634,7 @@
             this.pnl_Titulo.ResumeLayout(false);
             this.pnl_Historial.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -661,5 +677,6 @@
         private System.Windows.Forms.Button button21;
         private System.Windows.Forms.Button button22;
         private System.Windows.Forms.Button Btn_Igual;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
