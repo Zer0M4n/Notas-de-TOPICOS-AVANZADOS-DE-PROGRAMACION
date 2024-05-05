@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\bin\Debug\Practica1.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\obj\Debug\Practica1.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\obj\Debug\Practica1.UserControl1.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\obj\Debug\Practica1.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Practica1\Practica1\obj\Debug\Practica1.pdb
