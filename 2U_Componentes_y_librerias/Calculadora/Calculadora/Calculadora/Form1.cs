@@ -235,6 +235,41 @@ namespace Calculadora
 
         }//Operaciones especiales
 
+        private void Pantalla_Principal_TxtBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnl_Titulo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnl_Historial_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Pantalla_Historial_RichBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Pantalla_Secundaria_TxtBox_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
         private void Control_Ventana_Click(object sender, EventArgs e)
         {
             Button btn_Ventana = (Button)sender;

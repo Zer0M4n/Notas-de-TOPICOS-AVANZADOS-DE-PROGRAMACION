@@ -1,0 +1,10 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.Form1.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.Properties.Resources.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\bin\Debug\Carreras_Hilos.exe.config
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\bin\Debug\Carreras_Hilos.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\bin\Debug\Carreras_Hilos.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.exe
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\5U_Hilos\Carreras_Hilos\Carreras_Hilos\obj\Debug\Carreras_Hilos.pdb

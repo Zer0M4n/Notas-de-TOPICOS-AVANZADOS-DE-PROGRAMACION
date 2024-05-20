@@ -1,0 +1,8 @@
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\bin\Debug\Calculadora_Componente.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\bin\Debug\Calculadora_Componente.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\obj\Debug\Calculadora_Componente.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\obj\Debug\Calculadora_Componente.UserControl1.resources
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\obj\Debug\Calculadora_Componente.csproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\obj\Debug\Calculadora_Componente.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\obj\Debug\Calculadora_Componente.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora_Componente\Calculadora_Componente\obj\Debug\Calculadora_Componente.pdb

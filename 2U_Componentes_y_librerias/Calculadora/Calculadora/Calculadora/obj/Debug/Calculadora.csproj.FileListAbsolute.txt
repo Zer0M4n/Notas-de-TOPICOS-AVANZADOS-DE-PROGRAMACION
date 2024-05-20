@@ -8,13 +8,14 @@ C:\Users\cesar\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug
 C:\Users\cesar\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\cesar\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
 C:\Users\cesar\OneDrive\Escritorio\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
-C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
-C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
-C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.dll.config
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\cesar\OneDrive\Documents\GitHub\Notas-de-TOPICOS-AVANZADOS-DE-PROGRAMACION\2U_Componentes_y_librerias\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.UserControl1.resources

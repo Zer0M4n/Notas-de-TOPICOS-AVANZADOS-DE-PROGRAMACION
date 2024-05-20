@@ -98,6 +98,7 @@
             this.pnl_Titulo.Name = "pnl_Titulo";
             this.pnl_Titulo.Size = new System.Drawing.Size(354, 40);
             this.pnl_Titulo.TabIndex = 0;
+            this.pnl_Titulo.Paint += new System.Windows.Forms.PaintEventHandler(this.pnl_Titulo_Paint);
             this.pnl_Titulo.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnl_Titulo_MouseDown);
             // 
             // pictureBox1
@@ -108,6 +109,7 @@
             this.pictureBox1.Size = new System.Drawing.Size(31, 37);
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // Minimizar_Btn
             // 
@@ -167,6 +169,7 @@
             this.pnl_Historial.Name = "pnl_Historial";
             this.pnl_Historial.Size = new System.Drawing.Size(354, 11);
             this.pnl_Historial.TabIndex = 1;
+            this.pnl_Historial.Paint += new System.Windows.Forms.PaintEventHandler(this.pnl_Historial_Paint);
             // 
             // Pantalla_Historial_RichBox
             // 
@@ -180,6 +183,7 @@
             this.Pantalla_Historial_RichBox.Size = new System.Drawing.Size(354, 0);
             this.Pantalla_Historial_RichBox.TabIndex = 7;
             this.Pantalla_Historial_RichBox.Text = "";
+            this.Pantalla_Historial_RichBox.TextChanged += new System.EventHandler(this.Pantalla_Historial_RichBox_TextChanged);
             // 
             // panel1
             // 
@@ -190,6 +194,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(354, 30);
             this.panel1.TabIndex = 2;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // btn_Historial
             // 
@@ -219,6 +224,7 @@
             this.Pantalla_Secundaria_TxtBox.TabIndex = 3;
             this.Pantalla_Secundaria_TxtBox.Text = "0";
             this.Pantalla_Secundaria_TxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.Pantalla_Secundaria_TxtBox.TextChanged += new System.EventHandler(this.Pantalla_Secundaria_TxtBox_TextChanged);
             // 
             // Pantalla_Principal_TxtBox
             // 
@@ -235,6 +241,7 @@
             this.Pantalla_Principal_TxtBox.TabIndex = 4;
             this.Pantalla_Principal_TxtBox.Text = "0";
             this.Pantalla_Principal_TxtBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.Pantalla_Principal_TxtBox.TextChanged += new System.EventHandler(this.Pantalla_Principal_TxtBox_TextChanged);
             // 
             // btn_Porcent
             // 
